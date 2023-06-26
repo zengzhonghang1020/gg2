@@ -1,6 +1,3 @@
-aaa.md```plantuml
-@startuml
-
 package reactor.core {
     class ReactorDemo8 {
         + main(args: String[]): void
@@ -24,4 +21,3 @@ package reactor.core {
     }
 }
 
-@enduml
